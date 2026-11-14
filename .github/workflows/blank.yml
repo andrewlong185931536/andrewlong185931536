@@ -28,8 +28,8 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config --global user.email "21525471@qq.com"      # 替换为你的 GitHub 验证邮箱
-          git config --global user.name "WUKAWL"     # 替换为你的 GitHub 用户名
+          git config --global user.email "andrewlong18593@hotmail.com"      # 替换为你的 GitHub 验证邮箱
+          git config --global user.name "andrewlong18593"     # 替换为你的 GitHub 用户名
 
       - name: Generate commits
         env:
